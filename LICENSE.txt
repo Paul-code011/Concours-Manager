@@ -1,0 +1,9 @@
+Custom License – © 2025 Paul-code11
+
+Toute utilisation de ce code source dans un produit commercial (à but lucratif) est interdite sans l'autorisation explicite de l'auteur.
+
+Une licence commerciale peut être obtenue en contactant : schoumacher.paul011@icloud.com
+
+En cas de vente d’un produit basé sur ce code, Paul doit recevoir 10% du montant brut généré par les ventes.
+
+Ce code peut être utilisé gratuitement uniquement à des fins personnelles, éducatives ou non commerciales, à condition de conserver cette licence et d’attribuer l’auteur.
