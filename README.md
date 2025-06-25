@@ -10,10 +10,10 @@ Une **interface web** est en cours de développement et sera ajoutée prochainem
 
 ##  Fonctionnalités
 
-- ✏ Création de concours (titre, description, règles, dates, etc.)
+-  Création de concours (titre, description, règles, dates, etc.)
 -  Participation des utilisateurs (avec enregistrement)
 -  Sélection automatique ou manuelle des gagnants
-- 🗂 Gestion des concours actifs et terminés
+-  Gestion des concours actifs et terminés
 -  Sauvegarde locale des participants
 -  Code clair, structuré et facilement modifiable
 
