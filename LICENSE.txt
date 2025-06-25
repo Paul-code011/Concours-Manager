@@ -1,9 +1,22 @@
-Custom License – © 2025 Paul-code11
+Custom License – © 2025 Astral Tech
 
-Toute utilisation de ce code source dans un produit commercial (à but lucratif) est interdite sans l'autorisation explicite de l'auteur.
+Ce projet est une VERSION DÉMO gratuite.
 
-Une licence commerciale peut être obtenue en contactant : schoumacher.paul011@icloud.com
+Vous avez le droit :
+- D’utiliser ce code gratuitement à des fins personnelles, éducatives ou de test.
+- De modifier le code pour vos besoins non commerciaux.
+- De le partager avec attribution (obligatoire).
 
-En cas de vente d’un produit basé sur ce code, Paul doit recevoir 10% du montant brut généré par les ventes.
+Vous N’AVEZ PAS le droit :
+- D’utiliser ce code dans un produit commercial (vente, service payant, etc.) sans autorisation.
+- De retirer le nom de l’auteur original.
+- De revendre ou redistribuer une version modifiée sans mention claire de l’auteur.
 
-Ce code peut être utilisé gratuitement uniquement à des fins personnelles, éducatives ou non commerciales, à condition de conserver cette licence et d’attribuer l’auteur.
+Attribution obligatoire :
+Toute utilisation de ce code (même modifié) doit inclure la mention suivante :
+> "Créé par Paul-code011 – GitHub : https://github.com/paul-code011
+
+Version PRO :
+Une version professionnelle avec plus de fonctionnalités sera bientôt disponible à l’achat.
+Pour toute demande d’utilisation commerciale, contactez-moi à : schoumacher.paul011@icloud.com
+
